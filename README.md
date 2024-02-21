@@ -63,6 +63,12 @@ I'm passionate about software development and the incredible opportunities it pr
 - Internationalization (i18n)
 - Server-side rendering (SSR) and static site generation (SSG) with Next.js
 
+###### Ionic
+- Working with the ionic CLI
+- Implementing Ionic Components 
+- ``ionic/react``
+- Multi-Platform Applications with Capacitor
+
 <br />
 
 ##### Backend
